@@ -1,0 +1,13 @@
+Nombres de los integrantes:
+Jara, Fernando Victor
+Nievas, Federico Nahuel
+Ortiz Gomez, Imanol Ramiro
+
+Título del tema:ajedrez de a 4 
+Es un ajedres de 4 con sus reglas basicas sin modificar.
+
+justificación:
+No se encuentran muchas versiones programadas de ajedres de a 4 programadas en python.
+
+Herramientas:
+Se utilisara de entorno LINUX y de lenguaje PYTHON.
